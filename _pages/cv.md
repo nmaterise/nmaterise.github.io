@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Version of CV](nmaterise.github.io/files/nrm_cv_abbrv_230222.pdf)
+[PDF Version of CV](https://nmaterise.github.io/files/nrm_cv_abbrv_230222.pdf)
 
 Education
 ======
