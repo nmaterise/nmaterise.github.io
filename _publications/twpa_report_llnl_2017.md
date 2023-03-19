@@ -1,17 +1,11 @@
 ---
-title: ""
+title: "Report to Lincoln Labs on TWPAs"
 collection: publications
 permalink: /publication/twpa-report-llnl-2017.pdf
-excerpt: ''
+excerpt: 'Technical report on characterization of MIT Lincoln Laborotaries
+Josephson traveling wave parametric amplifiers (TWPAs).'
 date: 2017-10-05
-venue: ''
+venue: 'Lawrence Livermore National Laboratory'
 paperurl: 'http://nmaterise.github.io/files/twpa-report-llnl-2017.pdf'
-citation: 'J. L DuBois, G. Carosi, N. Woollett, E. Holland, M. Horsley, D. Qu, E<b>N. Materise</b>, O Drury, G. Chapline, S. Friedrich. &quot;Report to Lincoln Labs on TWPAs.&quot; DOI: [https://www.osti.gov/biblio/1399728](https://www.osti.gov/biblio/1399728)'
+citation: 'J. L DuBois, G. Carosi, N. Woollett, E. Holland, M. Horsley, D. Qu, E<b>N. Materise</b>, O Drury, G. Chapline, S. Friedrich. &quot;Report to Lincoln Labs on TWPAs.&quot; <a href="https://www.osti.gov/biblio/1399728">(https://www.osti.gov/biblio/1399728 </a>'
 ---
-<!---
-This paper is about the number 1. The number 2 is left for future work.
-
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
-
-Recommended citation: . (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
--->
