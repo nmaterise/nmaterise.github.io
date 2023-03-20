@@ -9,3 +9,4 @@ location: "Boston, Massachusetts"
 ---
 
 [Abstract](https://meetings.aps.org/Meeting/MAR19/Session/R27.12)
+[Slides](https://nmaterise.github.io/files/aps_vslq_readout_190307.pdf)
