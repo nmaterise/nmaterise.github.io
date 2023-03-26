@@ -90,7 +90,7 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=RjU1RDoAAAAJ&hl=en"
   email            : "nmaterise@mines.edu"
   arxiv            : "https://arxiv.org/search/?query=Materise%2C+N&searchtype=author&source=header"
-  researchgate     : "https://www.researchgate.net/profile/Nicholas_Materise"
+  # researchgate     : "https://www.researchgate.net/profile/Nicholas_Materise"
   uri              :
   bitbucket        :
   codepen          :
@@ -104,7 +104,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/nick-materise-35223645/"
+  linkedin         : "nick-materise-35223645"
   orcid            : "http://orcid.org/0000-0002-7353-4770"
   pinterest        :
   soundcloud       :
