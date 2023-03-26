@@ -82,10 +82,10 @@ analytics:
 # Site Author
 author:
   name             : "Nick Materise"
-  avatar           : "profile.png"
+  avatar           : "nick_at_cu.jpg"
   bio              : "Superconducting circuits, circuit QED, 3D cavities, super-semi, qubits"
   location         : "Golden, CO"
-  employer         :
+  employer         : "Colorado School of Mines"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=RjU1RDoAAAAJ&hl=en"
   email            : "nmaterise@mines.edu"
@@ -183,15 +183,19 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  patents:
     output: true
     permalink: /:collection/:path/
+#   portfolio:
+#     output: true
+#     permalink: /:collection/:path/
   talks:
     output: true
     permalink: /:collection/:path/
   posters:
     output: true
     permalink: /:collection/:path/
+
 
 
 # Defaults

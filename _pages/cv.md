@@ -39,19 +39,25 @@ Skills
   
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
+
+Patents
+======
+  <ul>{% for post in site.patents reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 
 Posters
 ======
-  <ul>{% for post in site.posters %}
+  <ul>{% for post in site.posters reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
 <!---
