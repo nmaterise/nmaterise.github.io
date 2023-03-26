@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fifth year applied physics PhD student at the [Colorado School of Mines](https://mines.edu) advised by [Eliot Kapit](https://physics.mines.edu/project/kapit-group). My thesis focuses on the design of tunable couplers for 2D and 3D superconducting circuits for quantum computing.
+I am a fifth year applied physics PhD student at the [Colorado School of Mines](https://mines.edu) advised by [Eliot Kapit](https://physics.mines.edu/project/kapit-group). My thesis focuses on the design of tunable couplers for 2D and 3D superconducting circuits for quantum computing. This work is partially supported by the [Graduate Fellowship for STEM Diversity](https://stemfellowships.org) and the [Superconducting Quantum Materials and Systems Center](https://sqmscenter.fnal.gov).
 
 Other areas of research include experimental determination of materials losses in superconducting resonators, modeling time-correlated noise in superconducting circuits, and using 3D cavities in materials loss experiments.
 
