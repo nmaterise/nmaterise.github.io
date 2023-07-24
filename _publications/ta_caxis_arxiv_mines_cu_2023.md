@@ -1,7 +1,7 @@
 ---
 title: "Grain size in low loss superconducting Ta thin films on c-axis sapphire"
 collection: publications
-permalink: /publication/ta-caxis-arxiv-mines-cu-2023.pdf
+permalink: /files/ta-caxis-arxiv-mines-cu-2023.pdf
 excerpt: 'Comparison of losses in different grain size tantalum thin films deposited on c-axis sapphire; no statistically significant difference in the loss reported.'
 date: 2023-07-24
 venue: 'arXiv'

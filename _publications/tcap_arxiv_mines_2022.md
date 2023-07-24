@@ -1,7 +1,7 @@
 ---
 title: "Tunable Capacitor For Superconducting Qubits Using an InAs/InGaAs Heterostructure"
 collection: publications
-permalink: /publication/tcap-arxiv-mines-2022.pdf
+permalink: /files/tcap-arxiv-mines-2022.pdf
 excerpt: 'Multiphysics modeling and design of a tunable capacitor using an InAs/InGaAs two dimensional electron
 gas.'
 date: 2022-12-08

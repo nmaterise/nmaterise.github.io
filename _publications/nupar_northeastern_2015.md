@@ -1,7 +1,7 @@
 ---
 title: "NUPAR: A Benchmark Suite for Modern Heterogeneous Architectures"
 collection: publications
-permalink: /publication/nupar-northeastern-2015.pdf
+permalink: /files/nupar-northeastern-2015.pdf
 excerpt: 'Benchmark suite targeting new features in general purpose graphics
 processing units (GPUs) with a focus on the NVIDIA Kepler and AMD
 Southern Islands architectures.'

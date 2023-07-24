@@ -1,7 +1,7 @@
 ---
 title: "Report to Lincoln Labs on TWPAs"
 collection: publications
-permalink: /publication/twpa-report-llnl-2017.pdf
+permalink: /files/twpa-report-llnl-2017.pdf
 excerpt: 'Technical report on characterization of MIT Lincoln Laborotaries
 Josephson traveling wave parametric amplifiers (TWPAs).'
 date: 2017-10-05
