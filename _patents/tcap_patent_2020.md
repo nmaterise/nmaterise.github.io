@@ -1,7 +1,7 @@
 ---
 title: "Tunable capacitor for superconducting qubits"
 collection: patents
-permalink: /patents/US20220207403A1.pdf
+permalink: /files/US20220207403A1.pdf
 excerpt: 'Patent application associated with the tunable capacitor design
 discussed in <a href="https://arxiv.org/abs/2212.04598">arXiv:2212.04598</a>.'
 date: 2020-12-31
