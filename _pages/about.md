@@ -14,7 +14,7 @@ I am a staff scientist at [Lawrence Livermore National Laboratory](llnl.gov) in 
 In my free time, I enjoy rock climbing, backpacking, cooking, volunteering in
 STEM and outdoor communities, and playing various musical instruments.
 
-A recent copy of my [CV](../files/nrm_cv_abbrv_230222.pdf)
+A recent copy of my [CV](../files/nmaterise_cv_abbrv_231212.pdf)
 
 A copy of my [thesis](../files/nrm_phd_thesis_mines_231118.pdf)
 

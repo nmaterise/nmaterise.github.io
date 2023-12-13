@@ -36,6 +36,7 @@ Skills
 * Cryogenic systems: dilution refrigerators, adiabatic demagnetization
   refrigerators
   
+<!--
 Publications
 ======
   <ul>{% for post in site.publications reversed %}
@@ -59,6 +60,7 @@ Posters
   <ul>{% for post in site.posters reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+-->
 <!---
 Teaching
 ======
