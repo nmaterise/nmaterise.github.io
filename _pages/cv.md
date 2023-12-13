@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,18 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-[PDF Version of CV](https://nmaterise.github.io/files/nrm_cv_abbrv_230724.pdf)
-
 Education
 ======
+* PhD in Applied Physics, Colorado School of Mines, 2023
 * B.S. in Electrical Engineering & Physics, Northeastern University, 2016
-* PhD in Applied Physics, Colorado School of Mines, 2023 (expected)
 
 Research Experience
 ======
-* 08/2018--Present, Graduate Research Assistant, Colorado School of Mines
-* 01/2021--Present, Affiliate Researcher, NIST Boulder
-* 08/2018--Present, Indeterminate Status Employee, LLNL
+* 01/2024--Present, Physicist, LLNL
+* 08/2018--12/2023, Graduate Research Assistant, Colorado School of Mines
+* 01/2021--12/2023, Affiliate Researcher, NIST Boulder
+* 08/2018--12/2023, Indeterminate Status Employee, LLNL
 * 06/2016--08/2018, Computer Scientist, LLNL
 * 07/2015--12/2015, Materials Science Co-op Student, LLNL
 * 03/2014--03/2015, Research Assistant, Northeastern University

@@ -1,9 +1,8 @@
 ---
-title: "An Introduction to Superconducting Qubits and Circuit Quantum Electrodynamics"
+title: ""
 collection: publications
-permalink: /files/intro-cqed-admx-2018.pdf
-excerpt: 'A short introduction to Josephson junction circuits and quantization
-techniques targeted towards the Axion Dark Matter eXperiment (ADMX) community.'
+permalink: ../files/intro-cqed-admx-2018.pdf
+excerpt: ''
 date: 2018-05-04
 venue: 'Proceedings of the 2nd Workshop on Microwave Cavities and Detectors for Axion Research'
 paperurl: 'http://nmaterise.github.io/files/intro-cqed-admx-2018.pdf'
