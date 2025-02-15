@@ -8,5 +8,4 @@ date: 2021-10-14
 location: "Golden, CO"
 ---
 
-[Abstract](http://physics.unm.edu/SQuInT/2021/abstracts.php?person_id=1344)
 [Poster](https://nmaterise.github.io/files/squint_poster_2021.pdf)
