@@ -9,7 +9,7 @@ redirect_from:
 ---
 # About
 
-I am a quantum measurement engineer at [QuantWare B.V.](https://https://www.quantware.com) in the QPU characterization team. I completed my PhD in Applied Physics from Colorado School of Mines in 2023, advised by [Eliot Kapit](https://physics.mines.edu/project/kapit-group). My thesis focused on the design of tunable couplers for 2D and 3D superconducting circuits and materials loss measurements for superconducting quantum computing. Following my PhD, I worked at [Lawrence Livermore National Laboratory](https://llnl.gov) as a staff scientist in the [Quantum Coherent Device Physics Group](quantum.llnl.gov).
+I am a quantum measurement engineer at [QuantWare](https://www.quantware.com) in the QPU characterization team. I completed my PhD in Applied Physics from Colorado School of Mines in 2023, advised by [Eliot Kapit](https://physics.mines.edu/project/kapit-group). My thesis focused on the design of tunable couplers for 2D and 3D superconducting circuits and materials loss measurements for superconducting quantum computing. Following my PhD, I worked at [Lawrence Livermore National Laboratory](https://llnl.gov) as a staff scientist in the [Quantum Coherent Device Physics Group](https://quantum.llnl.gov).
 
 A recent copy of my [CV](../files/materise_cv_250709.pdf)
 

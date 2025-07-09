@@ -16,7 +16,7 @@ Education
 
 Research Experience
 ======
-* 01/2024--Present, Quantum Measurement Engineer, QuantWare BV
+* 07/2025--Present, Quantum Measurement Engineer, QuantWare
 * 01/2024--07/2025, Staff Scientist, LLNL
 * 08/2018--12/2023, Graduate Research Assistant, Colorado School of Mines
 * 01/2021--12/2023, Affiliate Researcher, NIST Boulder
