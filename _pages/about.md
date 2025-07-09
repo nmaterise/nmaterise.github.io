@@ -9,9 +9,9 @@ redirect_from:
 ---
 # About
 
-I am a staff scientist at [Lawrence Livermore National Laboratory](https://llnl.gov) in the Quantum Coherent Device Physics Group ([quantum.llnl.gov](https://quantum.llnl.gov)). I completed my PhD in Applied Physics from Colorado School of Mines in 2023, advised by [Eliot Kapit](https://physics.mines.edu/project/kapit-group). My thesis focused on the design of tunable couplers for 2D and 3D superconducting circuits and materials loss measurements for superconducting quantum computing. In my current role, I design application-specific superconducting circuits for quantum simulation, study correlated errors with microwave kinetic inductance detectors, and calibrate single and two qubit gates for warm-dense matter calculations.
+I am a quantum measurement engineer at [QuantWare B.V.](https://https://www.quantware.com) in the QPU characterization team. I completed my PhD in Applied Physics from Colorado School of Mines in 2023, advised by [Eliot Kapit](https://physics.mines.edu/project/kapit-group). My thesis focused on the design of tunable couplers for 2D and 3D superconducting circuits and materials loss measurements for superconducting quantum computing. Following my PhD, I worked at [Lawrence Livermore National Laboratory](https://llnl.gov) as a staff scientist in the [Quantum Coherent Device Physics Group](quantum.llnl.gov).
 
-A recent copy of my [CV](../files/materise_cv_250524.pdf)
+A recent copy of my [CV](../files/materise_cv_250709.pdf)
 
 A copy of my [thesis](../files/nrm_phd_thesis_mines_231118.pdf)
 
