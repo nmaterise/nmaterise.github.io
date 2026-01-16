@@ -20,7 +20,7 @@ A copy of my [thesis](../files/nrm_phd_thesis_mines_231118.pdf)
 
 2. V.M. Iaia, E. S. Joseph, S. Im,  N. Hagopian, S. O'Kelley, C. Kim, <b>N. Materise</b>, S. Patra, V. Lordi, M.A. Eriksson, P.M. Voyles, K.G. Ray, Y.J. Rosen, &quot;Non-equilibrium Dynamics of Two-level Systems directly after Cryogenic Alternating Bias&quot; <a href="https://arxiv.org/abs/2509.19223">arXiv:2509.19223 (2025)</a> <a href="../files/tls-cabs-arxiv-2025.pdf">local copy</a>
 
-3. J.R. Pitten, <b>N. Materise</b>, W. Syong, J. Ramirez, D.S. Bennett, C.R.H. McRae, &quot;An Effective Reflection Mode Measurement for Hanger-Coupled Microwave Resonators&quot; <a href="https://journals.aps.org/pra/abstract/10.1103/71lw-rsrj</a> <a href="../files/erm-arxiv-2025.pdf">local copy</a>
+3. J.R. Pitten, <b>N. Materise</b>, W. Syong, J. Ramirez, D.S. Bennett, C.R.H. McRae, &quot;An Effective Reflection Mode Measurement for Hanger-Coupled Microwave Resonators&quot; <a href="https://journals.aps.org/pra/abstract/10.1103/71lw-rsrj"</a> <a href="../files/erm-arxiv-2025.pdf">local copy</a>
 
 4. L. A. Martinez, N. Du, <b>N. Materise</b>, S. O'Kelley, X. Wu, Q. Qui, K. L. Wang, G.P. Carosi, T. Low, D. Qu, &quot; Circulators based on Coupled Quantum Anomalous Hall Insulators and Resonators&quot; <a href="https://arxiv.org/abs/2505.07770"> arXiv:2505.07770 (2025). </a> <a href="../files/topo-circ-arxiv-2025.pdf">local copy</a>
 
