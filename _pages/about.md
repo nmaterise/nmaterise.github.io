@@ -16,7 +16,7 @@ A recent copy of my [CV](../files/materise_cv_260116.pdf)
 A copy of my [thesis](../files/nrm_phd_thesis_mines_231118.pdf)
 
 # Publications
-1. A.R. Castelli, K.M. Beck, L.D.H. Alegria, L.A. Martinez, K.R. Chaves, S.R. O'Kelley <b>N. Materise</b>, J.L DuBois, Y.J. Rosen, &quot;Superconducting qubit decoherence correlated with detected radiation events&quot; <a href="https://arxiv.org/abs/2512.18171">arXiv:2512.18171 (2025)</a> <a href="../files/mkids-arxiv-2025.pdf">local copy</a>
+1. A.R. Castelli, K.M. Beck, L.D.H. Alegria, L.A. Martinez, K.R. Chaves, S.R. O'Kelley, <b>N. Materise</b>, J.L DuBois, Y.J. Rosen, &quot;Superconducting qubit decoherence correlated with detected radiation events&quot; <a href="https://arxiv.org/abs/2512.18171">arXiv:2512.18171 (2025)</a> <a href="../files/mkids-arxiv-2025.pdf">local copy</a>
 
 2. V.M. Iaia, E. S. Joseph, S. Im,  N. Hagopian, S. O'Kelley, C. Kim, <b>N. Materise</b>, S. Patra, V. Lordi, M.A. Eriksson, P.M. Voyles, K.G. Ray, Y.J. Rosen, &quot;Non-equilibrium Dynamics of Two-level Systems directly after Cryogenic Alternating Bias&quot; <a href="https://arxiv.org/abs/2509.19223">arXiv:2509.19223 (2025)</a> <a href="../files/tls-cabs-arxiv-2025.pdf">local copy</a>
 
