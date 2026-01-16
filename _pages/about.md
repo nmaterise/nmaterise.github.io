@@ -11,28 +11,30 @@ redirect_from:
 
 I am a quantum measurement engineer at [QuantWare](https://www.quantware.com) in the QPU characterization team. I completed my PhD in Applied Physics from Colorado School of Mines in 2023, advised by [Eliot Kapit](https://physics.mines.edu/project/kapit-group). My thesis focused on the design of tunable couplers for 2D and 3D superconducting circuits and materials loss measurements for superconducting quantum computing. Following my PhD, I worked at [Lawrence Livermore National Laboratory](https://llnl.gov) as a staff scientist in the [Quantum Coherent Device Physics Group](https://quantum.llnl.gov).
 
-A recent copy of my [CV](../files/materise_cv_251005.pdf)
+A recent copy of my [CV](../files/materise_cv_260116.pdf)
 
 A copy of my [thesis](../files/nrm_phd_thesis_mines_231118.pdf)
 
 # Publications
-1. V.M. Iaia, E. S. Joseph, S. Im,  N. Hagopian, S. O'Kelley, C. Kim, <b>N. Materise</b>, S. Patra, V. Lordi, M.A. Eriksson, P.M. Voyles, K.G. Ray, Y.J. Rosen, &quot; Non-equilibrium Dynamics of Two-level Systems directly after Cryogenic Alternating Bias&quot; <a href="https://arxiv.org/abs/2509.19223"> arXiv:2509.19223 (2025). </a> <a href="../files/tls-cabs-arxiv-2025.pdf">local copy</a>
+1. A.R. Castelli, K.M. Beck, L.D.H. Alegria, L.A. Martinez, K.R. Chaves, S.R. O'Kelley <b>N. Materise</b>, J.L DuBois, Y.J. Rosen, &quot;Superconducting qubit decoherence correlated with detected radiation events&quot; <a href="https://arxiv.org/abs/2512.18171">arXiv:2512.18171 (2025)</a> <a href="../files/mkids-arxiv-2025.pdf">local copy</a>
 
-2. J.R. Pitten, <b>N. Materise</b>, W. Syong, J. Ramirez, D.S. Bennett, C.R.H. McRae, &quot; An Effective Reflection Mode Measurement for Hanger-Coupled Microwave Resonators&quot; <a href="https://arxiv.org/abs/2507.14394"> arXiv:2507.14394 (2025). </a> <a href="../files/erm-arxiv-2025.pdf">local copy</a>
+2. V.M. Iaia, E. S. Joseph, S. Im,  N. Hagopian, S. O'Kelley, C. Kim, <b>N. Materise</b>, S. Patra, V. Lordi, M.A. Eriksson, P.M. Voyles, K.G. Ray, Y.J. Rosen, &quot;Non-equilibrium Dynamics of Two-level Systems directly after Cryogenic Alternating Bias&quot; <a href="https://arxiv.org/abs/2509.19223">arXiv:2509.19223 (2025)</a> <a href="../files/tls-cabs-arxiv-2025.pdf">local copy</a>
 
-3. L. A. Martinez, N. Du, <b>N. Materise</b>, S. O'Kelley, X. Wu, Q. Qui, K. L. Wang, G.P. Carosi, T. Low, D. Qu, &quot; Circulators based on Coupled Quantum Anomalous Hall Insulators and Resonators&quot; <a href="https://arxiv.org/abs/2505.07770"> arXiv:2505.07770 (2025). </a> <a href="../files/topo-circ-arxiv-2025.pdf">local copy</a>
+3. J.R. Pitten, <b>N. Materise</b>, W. Syong, J. Ramirez, D.S. Bennett, C.R.H. McRae, &quot;An Effective Reflection Mode Measurement for Hanger-Coupled Microwave Resonators&quot; <a href="https://journals.aps.org/pra/abstract/10.1103/71lw-rsrj</a> <a href="../files/erm-arxiv-2025.pdf">local copy</a>
 
-4. C. G. Torres-Castanedo, D. P. Goronzy, T. Pham, A. McFadden, <b>N. Materise</b>, P. M. Das, M. Cheng, D. Lebedev, S. M. Ribet, M. J. Walker, D. A. Garcia-Wetten, C. J. Kopas, J. Marshall, E. Lachman, N. Zhelev, J. A. Sauls, J. Y. Mutus, C. R. H. McRae, V. P. Dravid, M. J. Bedzyk, and M. C. Hersam &quot;Formation and Microwave Losses of Hydrides in Superconducting Niobium Thin Films Resulting from Fluoride Chemical Processing,&quot; <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adfm.202401365">Adv. Funct. Mater. <b>34</b>, 2401365 (2024)</a> <a href="../files/nbh_northwestern_nist_2024.pdf">local copy</a>
+4. L. A. Martinez, N. Du, <b>N. Materise</b>, S. O'Kelley, X. Wu, Q. Qui, K. L. Wang, G.P. Carosi, T. Low, D. Qu, &quot; Circulators based on Coupled Quantum Anomalous Hall Insulators and Resonators&quot; <a href="https://arxiv.org/abs/2505.07770"> arXiv:2505.07770 (2025). </a> <a href="../files/topo-circ-arxiv-2025.pdf">local copy</a>
 
-5. S. G. Jones,\* <b>N. Materise</b>,\* K. W. Leung,\* B. D. Isakov, X. Chen, J. Zheng, A. Gyenis, B. Jaeck, and C. R. H. McRae &quot;Grain size in low loss superconducting Ta thin films on c-axis sapphire,&quot; <a href="https://pubs.aip.org/aip/jap/article/134/14/144402/2916004">J. Appl. Phys. <b>134</b>, 14402 (2023)</a> <a href="../files/ta-caxis-arxiv-mines-cu-2023.pdf">local copy</a>
+5. C. G. Torres-Castanedo, D. P. Goronzy, T. Pham, A. McFadden, <b>N. Materise</b>, P. M. Das, M. Cheng, D. Lebedev, S. M. Ribet, M. J. Walker, D. A. Garcia-Wetten, C. J. Kopas, J. Marshall, E. Lachman, N. Zhelev, J. A. Sauls, J. Y. Mutus, C. R. H. McRae, V. P. Dravid, M. J. Bedzyk, and M. C. Hersam &quot;Formation and Microwave Losses of Hydrides in Superconducting Niobium Thin Films Resulting from Fluoride Chemical Processing,&quot; <a href="https://advanced.onlinelibrary.wiley.com/doi/full/10.1002/adfm.202401365">Adv. Funct. Mater. <b>34</b>, 2401365 (2024)</a> <a href="../files/nbh_northwestern_nist_2024.pdf">local copy</a>
 
-6. <b>N. Materise</b>, M. Dartiailh, J. Shabani, and E. Kapit &quot;Tunable capacitor for superconducting qubits using an InAs/InGaAs heterostructure,&quot; <a href="https://iopscience.iop.org/article/10.1088/2058-9565/aceb18">Quantum Sci. Technol. <b>8</b> 045014 (2023)</a> <a href="../files/qst-tcap-2023.pdf">local copy</a>
+6. S. G. Jones,\* <b>N. Materise</b>,\* K. W. Leung,\* B. D. Isakov, X. Chen, J. Zheng, A. Gyenis, B. Jaeck, and C. R. H. McRae &quot;Grain size in low loss superconducting Ta thin films on c-axis sapphire,&quot; <a href="https://pubs.aip.org/aip/jap/article/134/14/144402/2916004">J. Appl. Phys. <b>134</b>, 14402 (2023)</a> <a href="../files/ta-caxis-arxiv-mines-cu-2023.pdf">local copy</a>
 
-7. <b>N. Materise</b>. &quot;An Introduction to Superconducting Qubits and Circuit Quantum Electrodynamics.&quot; <a href="https://doi.org/10.1007/978-3-319-92726-8_10"> Springer Proceedings in Physics, vol 211. Springer, Cham., 2018</a> <a href="../files/intro-cqed-admx-2018.pdf">local copy</a>
+7. <b>N. Materise</b>, M. Dartiailh, J. Shabani, and E. Kapit &quot;Tunable capacitor for superconducting qubits using an InAs/InGaAs heterostructure,&quot; <a href="https://iopscience.iop.org/article/10.1088/2058-9565/aceb18">Quantum Sci. Technol. <b>8</b> 045014 (2023)</a> <a href="../files/qst-tcap-2023.pdf">local copy</a>
 
-8. E.T. Holland, Y.J. Rosen, <b>N. Materise</b>, N. Woollett, T. Voisin, Y.M. Wang, S.G. Torres, J. Mireles, G. Carosi, and J. L DuBois. &quot; High-kinetic inductance additive manufactured superconducting microwave cavity.&quot; <a href="https://doi.org/10.1063/1.5000241">Applied Physics Letters <b>111</b>, 202602 (2018)</a> <a href="../files/apl-Ti64-llnl-2017.pdf">local copy</a>
+8. <b>N. Materise</b>. &quot;An Introduction to Superconducting Qubits and Circuit Quantum Electrodynamics.&quot; <a href="https://doi.org/10.1007/978-3-319-92726-8_10"> Springer Proceedings in Physics, vol 211. Springer, Cham., 2018</a> <a href="../files/intro-cqed-admx-2018.pdf">local copy</a>
 
-9. Y. Ukidave, F.N. Paravecino, L. Yu, C. Karla, Z. Chen, A. Momeni, <b>N. Materise</b>, B. Daley, and D. Kaeli. &quot;NUPAR: A Benchmark Suite for Modern Heterogeneous Architectures.&quot;<a href="https://doi.org/10.1145/2668930.2688046">International Conference on Performance Engineering, 2015</a> <a href="../files/nupar-northeastern-2015.pdf">local copy</a>
+9. E.T. Holland, Y.J. Rosen, <b>N. Materise</b>, N. Woollett, T. Voisin, Y.M. Wang, S.G. Torres, J. Mireles, G. Carosi, and J. L DuBois. &quot;High-kinetic inductance additive manufactured superconducting microwave cavity.&quot; <a href="https://doi.org/10.1063/1.5000241">Applied Physics Letters <b>111</b>, 202602 (2018)</a> <a href="../files/apl-Ti64-llnl-2017.pdf">local copy</a>
+
+10. Y. Ukidave, F.N. Paravecino, L. Yu, C. Karla, Z. Chen, A. Momeni, <b>N. Materise</b>, B. Daley, and D. Kaeli. &quot;NUPAR: A Benchmark Suite for Modern Heterogeneous Architectures.&quot;<a href="https://doi.org/10.1145/2668930.2688046">International Conference on Performance Engineering, 2015</a> <a href="../files/nupar-northeastern-2015.pdf">local copy</a>
 
 # Patents
 
@@ -42,3 +44,4 @@ A copy of my [thesis](../files/nrm_phd_thesis_mines_231118.pdf)
 
 
 This website is powered by the [academicpages template](https://github.com/academicpages/academicpages.github.io) and hosted on [GitHub pages](https://pages.github.com).
+Last updated on January 16, 2026.
